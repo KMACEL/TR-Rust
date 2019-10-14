@@ -45,7 +45,7 @@ fn main() {
 
     let s10 = String::from("merhaba");
     let s11 = takes_and_gives_back(s10);
-    println!("Gelen : {}", s10)
+    println!("Gelen : {}", s11)
 }
 
 fn takes_ownership(some_string: String) {
